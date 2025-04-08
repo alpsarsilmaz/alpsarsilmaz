@@ -2,10 +2,17 @@
 <h3 align="center">Full-Stack Developer | Backend Engineer | Clean Code & API Lover</h3>
 
 <p align="center">
-  <a href="mailto:alcane.development@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="www.linkedin.com/in/alp-sarsılmaz-4344b035b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="kripsde.com.tr"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="mailto:alcane.development@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alp-sars%C4%B1lmaz-4344b035b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://kripsde.com.tr">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
