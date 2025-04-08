@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Krips 👋</h1>
+<h1 align="center">Merhaba, ben Krips. 👋</h1>
 <h3 align="center">Full-Stack Developer | Backend Engineer | Clean Code & API Lover</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alpsarsilmaz&label=Profile%20Views&color=1DBF73&style=for-the-badge" />
