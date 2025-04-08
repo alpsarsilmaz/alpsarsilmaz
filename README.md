@@ -1,5 +1,8 @@
 <h1 align="center">Merhaba, ben Krips 👋</h1>
 <h3 align="center">Full-Stack Developer | Backend Engineer | Clean Code & API Lover</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Activity-500-1DBF73?style=for-the-badge&logo=eye&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="mailto:alcane.development@gmail.com">
