@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Krips.</h1>
+<h1 align="center">Hi, I'm Krips.</h1>
 <h3 align="center">Full-Stack Developer | Backend Engineer | Clean Code & API Lover</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alpsarsilmaz&label=Profile%20Views&color=1DBF73&style=for-the-badge" />
@@ -16,30 +16,29 @@
   </a>
 </p>
 
+---
+
+## About Me
+
+Hi there! I'm a passionate developer who loves exploring and building things. I always strive to write clean, maintainable, and readable code.  
+I adopt modern software architectures and choose the most suitable technologies based on project needs.
+
+My expertise includes building RESTful APIs, database design, backend optimization, and client-server communication.  
+I also have experience developing UIs using modern frontend frameworks.
 
 ---
 
-## Hakkımda
+## What I'm Currently Working On
 
-Merhaba! Ben yazılım geliştirme konusunda tutkulu, araştırmayı ve üretmeyi seven bir geliştiriciyim. Her zaman temiz, sürdürülebilir ve okunabilir kodlar yazmayı hedeflerim.  
-Modern yazılım mimarilerini benimser, proje ihtiyaçlarına göre uygun teknolojileri seçerim.  
-
-Uzmanlık alanlarım arasında RESTful API geliştirme, veritabanı tasarımı, backend optimizasyonu ve client-server iletişimi bulunmaktadır.  
-Aynı zamanda frontend tarafında da modern framework'lerle UI geliştirme deneyimim var.
+- A **REST API** project (TypeScript + Node.js + MySQL)
+- Experimenting with microservice architecture
+- Contributing to open-source projects to keep learning
 
 ---
 
-## Şu Anda Üzerinde Çalışıyorum
+## Technologies I Use
 
-- **Bir REST API** projesi (TypeScript + Node.js + MySQL)
-- Mikroservis mimarisi üzerinde denemeler yapıyorum
-- Yeni şeyler öğrenmek için açık kaynak projelere katkı sağlıyorum
-
----
-
-## Kullandığım Teknolojiler
-
-### Programlama Dilleri
+### Programming Languages
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
@@ -58,7 +57,7 @@ Aynı zamanda frontend tarafında da modern framework'lerle UI geliştirme deney
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" />
 </p>
 
-### Backend Teknolojileri
+### Backend Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40"/>
@@ -69,7 +68,7 @@ Aynı zamanda frontend tarafında da modern framework'lerle UI geliştirme deney
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="40"/>
 </p>
 
-### Frontend Teknolojileri
+### Frontend Technologies
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="40"/>
@@ -78,7 +77,7 @@ Aynı zamanda frontend tarafında da modern framework'lerle UI geliştirme deney
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40"/>
 </p>
 
-### Araçlar & Platformlar
+### Tools & Platforms
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40"/>
@@ -90,7 +89,7 @@ Aynı zamanda frontend tarafında da modern framework'lerle UI geliştirme deney
 
 ---
 
-## GitHub İstatistikleri
+## GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alpsarsilmaz&show_icons=true&theme=default" width="48%" />
@@ -99,12 +98,11 @@ Aynı zamanda frontend tarafında da modern framework'lerle UI geliştirme deney
 
 ---
 
-## İletişim
+## Contact
 
-- Email: alcane.development@gmail.com 
-- LinkedIn: [linkedin.com/in/alp-sarsılmaz](www.linkedin.com/in/alp-sarsılmaz-4344b035b)  
+- Email: alcane.development@gmail.com  
+- LinkedIn: [linkedin.com/in/alp-sarsılmaz](https://www.linkedin.com/in/alp-sars%C4%B1lmaz-4344b035b)  
 
 ---
 
-> “Kodunu yaz, gerisini compiler düşünsün.” – Meçhul Yazılımcı
-
+> “Write your code, let the compiler worry about the rest.” – Unknown Developer
