@@ -88,7 +88,7 @@ I also have experience developing UIs using modern frontend frameworks.
 
 ## Contact
 
-- Email: alcane.development@gmail.com  
+- Email: k45061812@gmail.com  
 - LinkedIn: [linkedin.com/in/alp-sarsılmaz](https://www.linkedin.com/in/alp-sars%C4%B1lmaz-4344b035b)  
 
 ---
