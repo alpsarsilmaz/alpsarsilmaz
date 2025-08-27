@@ -4,7 +4,6 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center">Lead Software Developer & DevOps Engineer</h3>
 <h4 align="center">Specializing in cloud-native architecture, CI/CD automation, and applied cybersecurity</h4>
- <img src="https://komarev.com/ghpvc/?username=kripsdeveloper&label=Profile%20Views&color=1DBF73&style=for-the-badge" alt="profile views"/>
 
 ---
 
