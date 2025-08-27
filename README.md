@@ -4,6 +4,7 @@
 <h1 align="center">Welcome!</h1>
 <h3 align="center">Lead Software Developer & DevOps Engineer</h3>
 <h4 align="center">Specializing in cloud-native architecture, CI/CD automation, and applied cybersecurity</h4>
+ <img src="https://komarev.com/ghpvc/?username=kripsdeveloper&label=Profile%20Views&color=1DBF73&style=for-the-badge" alt="profile views"/>
 
 ---
 
@@ -64,7 +65,6 @@ Over the years, I’ve contributed to various enterprise-level projects, led dev
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kripsdeveloper&layout=compact&theme=default&hide_border=false" width="49%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kripsdeveloper&theme=flat&no-frame=true&margin-w=5&margin-h=5" width="49%"/>
 </p>
 
 ---
