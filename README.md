@@ -1,6 +1,3 @@
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1DBF73&height=200&section=header&text=Krips&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
 <h1 align="center">Welcome!</h1>
 <h3 align="center">Lead Software Developer & DevOps Engineer</h3>
 <h4 align="center">Specializing in cloud-native architecture, CI/CD automation, and applied cybersecurity</h4>
